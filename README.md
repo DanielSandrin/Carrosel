@@ -1,5 +1,5 @@
 # Componente
-![Inicial](https://user-images.githubusercontent.com/40778725/157361948-06beb048-d0cd-4cf3-8cb2-76b625f97720.png)
+![Inicial](https://user-images.githubusercontent.com/40778725/158913411-e0a9ec37-3352-41f9-abd1-9e7e3f94f774.png)
 
 # Carrosel
 Componente criado em HTML, CSS, JS
